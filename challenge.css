@@ -1,0 +1,32 @@
+button:hover{
+    background-color: blue;
+    font-size: 22px;
+    color: white;
+}
+
+
+
+input:focus-visible{
+    border: 5px;
+}
+
+a:hover{
+    color: skyblue;
+    font-size: 20px;
+}
+
+div{
+    background-color: blue;
+    height:600px;
+    margin-top: 20px;
+}
+
+div:hover{
+    background-image: url(images/bonobonoppt.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
